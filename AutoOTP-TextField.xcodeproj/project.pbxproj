@@ -19,6 +19,7 @@
 		482037272956A9B800C79FF7 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		482037292956A9B900C79FF7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4820372C2956A9B900C79FF7 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		482037332957577A00C79FF7 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -35,6 +36,7 @@
 		482037192956A9B800C79FF7 = {
 			isa = PBXGroup;
 			children = (
+				482037332957577A00C79FF7 /* README.md */,
 				482037242956A9B800C79FF7 /* AutoOTP-TextField */,
 				482037232956A9B800C79FF7 /* Products */,
 			);
